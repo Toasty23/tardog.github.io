@@ -1,0 +1,30 @@
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+ border-radius: 8px;
+}
+ 
+header{
+    background-color: #;
+    text-align: center;
+}
+
+header img {
+    border-radius: 150px;
+    width: 300px;
+    border: 20px solid #483a94;
+}
+
+body {
+   background-color: coral;
+}
+
+h1 {
+   color: navy;
+   margin-left: 20px;
+}
