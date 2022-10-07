@@ -13,8 +13,14 @@
 	border-top-width: 30px;
 	border-top-color: red;
 	box-sizing: border-box;
+	
 }
 
+
 h2{
-	background: white;
+	font-size: 60px
+	margin: 0;
+	color: white;
+	background-color: #FA8072;
+	margin: -120px 0 0 -50px;
 }
