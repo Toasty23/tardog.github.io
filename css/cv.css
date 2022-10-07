@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+body {
+	background-color: #D2B36B;
+	text-align: center;
+}
+
+.myDiv {
+	border: 6px outset white;
+	background-color: #D2B36BS;
+	text-align: center;
+}
+
+img.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
